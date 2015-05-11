@@ -1,4 +1,4 @@
-# Add Author
+# Michael Loukeri
 
 class Person
 	attr_accessor :name, :age
