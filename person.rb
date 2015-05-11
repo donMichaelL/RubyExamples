@@ -1,3 +1,5 @@
+# Add Author
+
 class Person
 	attr_accessor :name, :age
 	
