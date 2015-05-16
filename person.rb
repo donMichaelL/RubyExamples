@@ -1,4 +1,4 @@
-# John is making the first change
+# John is making the second change
 
 class Person
 	attr_accessor :name, :age
