@@ -1,4 +1,4 @@
-# Michael Loukeri
+# John is making the first change
 
 class Person
 	attr_accessor :name, :age
