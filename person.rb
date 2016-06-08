@@ -10,6 +10,7 @@ class Person
 
 	def print_person
 		puts "#{name} is #{age} years old"
+		#hello
 		end
 end
 
