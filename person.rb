@@ -13,8 +13,3 @@ class Person
 		#hello
 		end
 end
-
-#end
-#end
-#change 1
-#change 2
